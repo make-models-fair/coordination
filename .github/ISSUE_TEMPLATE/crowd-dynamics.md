@@ -1,9 +1,9 @@
 ---
-name: Add a Model [Uncategorized]
+name: Add a Model [Crowd Dynamics]
 about: 'This issue template can be used when beginning to work on a model from the
   tobefair.org website that does not yet have an issue associated with it. '
 title: "[NAME-YEAR]"
-labels: Not yet started
+labels: Not yet started, Crowd Dynamics
 assignees: kaclaborn, manuvanegas
 
 ---
